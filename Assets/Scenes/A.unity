@@ -9240,7 +9240,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: fe387b340c1db4ce5b03acccbc3715f9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9278,13 +9278,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 902081255}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.11108398, z: -0, w: 0.993811}
+  m_LocalRotation: {x: -0, y: 0.00026817128, z: -0, w: 1}
   m_LocalPosition: {x: 1.346, y: -0.22, z: 4.665}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 12.756, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0.031, z: 0}
 --- !u!1 &908128896
 GameObject:
   m_ObjectHideFlags: 0
@@ -12981,7 +12981,7 @@ MonoBehaviour:
     Kampus ini terus berinovasi secara berkelanjutan menggunakan pendekatan mutakhir
     untuk memastikan ketahanan hayati dan pangan demi kemajuan bangsa di masa depan. "
   infoImages:
-  - {fileID: 21300000, guid: ac54a2a011d4a4ccc9f531b7a41ae597, type: 3}
+  - {fileID: 21300000, guid: 8f962885352a147d4a1a03b12da5dd61, type: 3}
   scrollRect: {fileID: 1377539498}
 --- !u!114 &1264944575
 MonoBehaviour:
@@ -13130,7 +13130,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: fe387b340c1db4ce5b03acccbc3715f9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13712,7 +13712,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: fe387b340c1db4ce5b03acccbc3715f9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -17365,7 +17365,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: fe387b340c1db4ce5b03acccbc3715f9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -17404,7 +17404,7 @@ Transform:
   m_GameObject: {fileID: 1741364942}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.5335373, z: -0, w: -0.84577656}
-  m_LocalPosition: {x: 4.465, y: 0.475, z: 2.055}
+  m_LocalPosition: {x: 4.465, y: 0.308, z: 2.055}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17508,7 +17508,7 @@ MonoBehaviour:
       sukses mengukuhkan reputasi IPB sebagai perguruan tinggi yang paling banyak
       menyumbang inovasi nasional secara berturut-turut di Indonesia. '
   - photo: {fileID: 21300000, guid: 0f6ce1546fb704c42802178a39d0c27e, type: 3}
-    name: Prof. Dr. dr. Syarif Thayeb (Ketua Presidium, 1963)
+    name: Prof. Dr. Arif Satria, S.P., M.Si. (Rektor, 2017 - 2022 & 2023 - 2028)
     bio: "Beliau membawa IPB University memasuki era modernisasi digital melalui
       visi Agromaritim 4.0 dan pengembangan ekosistem riset smart farming. Di bawah
       kepemimpinannya, kampus bertransformasi menjadi institusi inovatif yang adaptif
