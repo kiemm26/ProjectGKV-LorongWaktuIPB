@@ -7,6 +7,7 @@ public class DoorTeleporter : MonoBehaviour
 
     public void TeleportToScene()
     {
+        if (InfoHotspot.IsPopupOpen) return;
         SceneManager.LoadScene(sceneToLoad);
     }
 }
