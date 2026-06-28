@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "questionText": "Berdasarkan panel infografis \"IPB dan Dunia Internasional\" yang terpajang di dinding ruangan ini, wilayah atau negara manakah yang tercatat memiliki hubungan kemitraan aktif terbesar dengan IPB, yaitu mencapai total 234 kerja sama?",
+      "options": [
+        "Amerika (94 Kerja Sama)",
+        "Eropa (218 Kerja Sama)",
+        "Jepang (234 Kerja Sama)",
+        "ASEAN, Australia & Selandia Baru (219 Kerja Sama)"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Pada panel \"Sumbangsih Kepada Bumi Pertiwi\", para peneliti IPB sukses merakit varietas buah lokal unggulan yang sangat populer di pasar nasional karena rasa manisnya. Apa nama asli varietas pepaya unggul tersebut yang sering salah disebut oleh masyarakat sebagai Pepaya California?",
+      "options": [
+        "Pepaya Calina",
+        "Pepaya Bangkok",
+        "Pepaya Carica",
+        "Pepaya Subang"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Jika Anda memperhatikan panel infografis berbentuk geometri mosaik segitiga di dinding, pada periode tahun berapakah aktivitas akademik IPB dipindahkan secara besar-besaran dari Kampus Baranangsiang menuju ke Kampus Utama Dramaga?",
+      "options": [
+        "Periode 1945 - 1950",
+        "Periode 1970 - 1977",
+        "Periode 1981 - 1993",
+        "Periode 2020 - Future"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Berdasarkan panel sejarah tahun 1918 mengenai diskusi awal pembukaan Lembaga Pendidikan Tinggi Pertanian dan Kehutanan di parlemen Hindia Belanda (Volksraad), siapakah dua tokoh Bumiputera yang menjadi figur penting dalam memperjuangkan hak pendidikan ini bagi pemuda pribumi?",
+      "options": [
+        "Prof. Dr. P.A. Hoesein Djajadiningrat dan Dr. H. Walch",
+        "Ir. Soekarno dan Dr. Mohammad Hatta",
+        "Dr. Abdul Rivai dan Raden Mas Ngabehi Dwidjosewojo",
+        "Dr. Sutomo dan Ki Hajar Dewantara"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Pada panel sejarah tahun 1940, peristiwa besar apa yang terjadi di Eropa sehingga menyebabkan pemerintah Hindia Belanda menganggap pendirian perguruan tinggi pertanian di Indonesia menjadi sangat mendesak?",
+      "options": [
+        "Pendudukan Belanda oleh Jerman pada Perang Dunia II",
+        "Krisis ekonomi global (The Great Depression)",
+        "Berakhirnya sistem Tanam Paksa (Cultuurstelsel)",
+        "Terjadinya Revolusi Industri di Inggris"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Melalui panel \"Lembaga Pendidikan Tinggi Pertanian pada Masa Kemerdekaan\", di manakah lokasi pembangunan gedung perkuliahan yang representatif pada tahun 1949 di Jalan van Heutzweg (yang sekarang dikenal sebagai Jalan Pajajaran, Bogor)?",
+      "options": [
+        "Kampus Dramaga",
+        "Kampus Baranangsiang (Jalan Pajajaran)",
+        "Kampus Taman Kencana",
+        "Kampus Sukabumi"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Berdasarkan catatan sejarah tahun 1957, lembaga dari Amerika Serikat manakah yang diajak bermitra oleh Fakultas Pertanian dan Fakultas Kedokteran Hewan UI di Bogor untuk mengembangkan kelembagaan menuju perguruan tinggi mandiri?",
+      "options": [
+        "Food and Agriculture Organization (FAO)",
+        "Kentucky Contract Team (KCT)-USAID",
+        "SEAMEO BIOTROP",
+        "Oxford Agricultural Division"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Mengapa Presiden Soekarno memberikan pidato yang sangat menggelegar berjudul \"Soal Hidup atau Mati\" saat meresmikan Peletakan Batu Pertama Gedung Faculteit Pertanian UI di Baranangsiang pada 27 April 1952?",
+      "options": [
+        "Karena sektor pertanian akan menentukan hidup matinya Bangsa Indonesia",
+        "Karena adanya ancaman kelaparan akibat Perang Dunia II di Eropa",
+        "Karena mahasiswa menuntut pemisahan fakultas dari Universitas Indonesia",
+        "Karena keterbatasan jumlah lahan pertanian produktif di wilayah Bogor"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Berdasarkan Surat Keputusan Menteri Perguruan Tinggi dan Ilmu Pengetahuan (PTIP) No. 91 Tahun 1963, manakah kelompok fakultas di bawah ini yang menyusun struktur lima fakultas pertama pada awal berdirinya IPB secara mandiri?",
+      "options": [
+        "Pertanian, Kedokteran Hewan, Kehutanan, Peternakan, dan Perikanan",
+        "Pertanian, Kedokteran Gigi, Kehutanan, Biologi, dan Sains Data",
+        "Pertanian, Kedokteran Hewan, Matematika, Informatika, dan Teknologi Pertanian",
+        "Pertanian, Hukum, Kedokteran, Sastra, dan Ekonomi"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
